@@ -1,0 +1,12 @@
+* {
+    font-family: 'Abel', sans-serif;
+    border: 10px olivedrab;
+}
+a {
+    color: olivedrab !important;
+}
+.nav-link {
+    display: block;
+    padding: 2rem 2rem !important;
+    font-size: 20px;
+}
