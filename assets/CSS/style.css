@@ -22,3 +22,19 @@ a:hover {
 .container {
    border-left:10px solid olivedrab !important;
 }
+
+/* CSS for the projects page */
+.card {
+    padding: 5%;
+}
+.card-img-top {
+    max-height:60%;
+    max-width: 60%;
+}
+
+.btn-projects {
+    background-color: rgba(40, 54, 11, 0.3);
+}
+.btn-projects:hover {
+    background-color: rgb(107,142,35, 0.1);
+}
