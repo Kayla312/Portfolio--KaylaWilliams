@@ -32,6 +32,8 @@ a:hover {
 .myPhoto{
     max-height:40%;
     max-width: 40%;
+    border-radius: 1%;
+    border: 1px solid olivedrab;
 }
 
 /* CSS for the projects page */
