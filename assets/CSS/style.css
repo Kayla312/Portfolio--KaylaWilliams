@@ -27,7 +27,7 @@ a:hover {
 .card {
     padding: 5%;
 }
-.card-img-top {
+img, .card-img-top {
     max-height:60%;
     max-width: 60%;
 }
